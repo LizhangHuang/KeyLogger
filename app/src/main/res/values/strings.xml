@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeyLogger</string>
+    <string name="clear">清除记录</string>
+    <string name="longtext">键盘输入记录 LogCat 查看(Support Android 8.0)\n过滤器 tag:keylogger Format:PacketName:Key</string>
+</resources>
